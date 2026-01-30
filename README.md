@@ -69,69 +69,69 @@ The dashboard provides insights on:
 
 ---
 
-## ▶ How To Run  
+## 📂 How To Use This Project
 
-Follow these steps to run the dashboard locally:
+1. Download the repository  
+2. Open the `.pbix` file in Power BI Desktop  
+3. Refresh the dataset if required  
+4. Explore dashboard using filters & slicers  
 
-1️⃣ Clone this repository  
+---
 
-```bash
-git clone https://github.com/Khushi-yadav8757/Covid-19-Data-Analysis-Project-.git
-```
-
-2️⃣ Open Power BI Desktop
-
-3️⃣ Load the .pbix file
-
-4️⃣ Explore dashboard using slicers & filters
-
-📈 Learning Outcomes
+## 📈 Learning Outcomes
 
 This project helped me improve:
 
-✔ Data Visualization Skills
-✔ Power BI Dashboard Design
-✔ DAX Measures
-✔ Data Cleaning Techniques
-✔ Business Intelligence Concepts
-✔ Analytical Thinking
+- ✔ Data Visualization Skills  
+- ✔ Power BI Dashboard Design  
+- ✔ DAX Measures  
+- ✔ Data Cleaning Techniques  
+- ✔ Business Intelligence Concepts  
+- ✔ Analytical Thinking  
 
-🚧 Future Improvements
+---
 
-Planned enhancements:
+## 🔮 Future Improvements
 
-🔹 Live API Data Integration
-🔹 Drill-through Reports
-🔹 Forecasting Models
-🔹 Advanced KPIs
-🔹 Mobile Responsive Layout
+Planned Enhancements:
 
-⭐ Support
+- 🔹 Live API Data Integration  
+- 🔹 Drill-through Reports  
+- 🔹 Forecasting Models  
+- 🔹 Advanced KPIs  
+- 🔹 Mobile Responsive Layout  
 
-If you like this project:
+---
 
-🌟 Star the repository
-🍴 Fork for practice
-💬 Share feedback
+## ⭐ Support
 
-Your support motivates me 🚀
+If you found this project helpful, please consider supporting it:
 
-👤 Author
+- ⭐ Star this repository  
+- 🍴 Fork and practice  
+- 💬 Share your feedback  
+- 🔁 Share with your network  
 
-Khushi Yadav
+Your support motivates me to create more quality projects 🚀
 
-📊 Data Analytics Enthusiast
-🚀 Power BI Developer
-💡 Passionate about Business Intelligence & Visualization
+---
 
-📜 License
+## 👩‍💻 Author
 
-This project is open-source and free for:
+**Khushi Yadav**  
 
-✅ Learning
-✅ Practice
-✅ Portfolio Use
+🎯 Data Analytics Enthusiast  
+📊 Power BI Developer  
+📈 Passionate about Business Intelligence & Data Visualization  
 
-<div align="center">
-🚀 Thank You For Visiting This Repository!
-</div> ```
+### 🔗 Connect With Me
+
+- GitHub: https://github.com/Khushi-yadav8757  
+- LinkedIn: https://www.linkedin.com/in/khushi-yadav8757/
+
+---
+
+## 📌 Note
+
+This project is created for **learning and portfolio demonstration purposes**.  
+Suggestions and improvements are always welcome 😊
