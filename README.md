@@ -1,52 +1,62 @@
+<div align="center">
+
 # 🌍 COVID-19 Data Analysis Dashboard | Power BI  
 
-> 📊 An interactive **Power BI dashboard** that transforms raw COVID-19 data into meaningful visual insights for global trend analysis and data-driven decision making.
+![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Open%20Source-blue?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Khushi-yadav8757/Covid-19-Data-Analysis-Project-?style=for-the-badge)
 
-![Dashboard Preview](https://github.com/Khushi-yadav8757/Covid-19-Data-Analysis-Project-/blob/main/Screenshot%202026-01-24%20195427.png)
+> 📊 Interactive COVID-19 Analytics Dashboard built using **Microsoft Power BI** for real-world data visualization and insights.
+
+</div>
 
 ---
 
-## 🚀 Project Highlights  
+## 📸 Dashboard Preview  
 
-✅ Interactive KPI Cards  
-✅ Country/Region Filtering  
-✅ Trend Analysis (Confirmed, Deaths & Recovered)  
+![Dashboard Preview](Screenshot%202026-01-24%20195427.png)
+
+---
+
+## 🚀 Project Overview  
+
+This project focuses on analyzing global COVID-19 data and presenting it through an **interactive Power BI dashboard**.  
+It enables users to explore pandemic trends, compare countries, and understand key performance metrics with visually appealing charts and maps.
+
+---
+
+## ✨ Key Features  
+
+✅ Real-time style KPI Cards  
+✅ Country & Region Filters  
+✅ Trend Analysis (Confirmed, Deaths, Recovered)  
 ✅ Global Map Visualization  
-✅ Clean & Professional UI  
-✅ Performance Optimized Dashboard  
+✅ Interactive Charts  
+✅ Clean Dashboard UI Design  
 
 ---
 
-## 📌 Dashboard Insights  
+## 📊 Dashboard Metrics  
 
-This dashboard provides a comprehensive overview of the COVID-19 pandemic including:  
+The dashboard provides insights on:  
 
 📈 Total Confirmed Cases  
 💀 Total Deaths  
-💚 Total Recovered Cases  
+💚 Total Recovered  
 ⚡ Active Cases  
-📊 Case Fatality Rate (CFR)  
 📉 Recovery Rate  
-
----
-
-## 🎯 Key Features  
-
-- Dynamic slicers for country-based filtering  
-- Time-series trend charts  
-- Geographic distribution using maps  
-- Comparative analysis for top affected countries  
-- User-friendly dashboard layout  
+📊 Case Fatality Rate (CFR)  
 
 ---
 
 ## 🛠 Tech Stack  
 
-| Technology | Usage |
+| Technology | Purpose |
 |------------|---------|
 | Power BI Desktop | Dashboard Development |
 | Power Query | Data Cleaning & Transformation |
-| DAX | Calculations & KPIs |
+| DAX | KPI Calculations |
 | Data Modeling | Relationship Management |
 
 ---
@@ -57,21 +67,23 @@ This dashboard provides a comprehensive overview of the COVID-19 pandemic includ
 ┣ 📄 README.md
 ┗ 📈 Power BI (.pbix) File
 
-
 ---
-
 
 ## ▶ How To Run  
 
-1. Clone this repository  
+Follow these steps to run the dashboard locally:
+
+1️⃣ Clone this repository  
+
 ```bash
 git clone https://github.com/Khushi-yadav8757/Covid-19-Data-Analysis-Project-.git
-``` 
-Open Power BI Desktop
 
-Load the .pbix file
 
-Explore the dashboard using slicers and filters
+2️⃣ Open Power BI Desktop
+
+3️⃣ Load the .pbix file
+
+4️⃣ Explore dashboard using slicers & filters
 
 📈 Learning Outcomes
 
@@ -82,42 +94,44 @@ This project helped me improve:
 ✔ DAX Measures
 ✔ Data Cleaning Techniques
 ✔ Business Intelligence Concepts
+✔ Analytical Thinking
 
 🚧 Future Improvements
 
-Live API Data Integration
+Planned enhancements:
 
-Drill-through Reports
-
-Forecasting Models
-
-Advanced KPIs
-
-Mobile Responsive Dashboard
+🔹 Live API Data Integration
+🔹 Drill-through Reports
+🔹 Forecasting Models
+🔹 Advanced KPIs
+🔹 Mobile Responsive Layout
 
 ⭐ Support
 
-If you found this project useful:
+If you like this project:
 
-🌟 Star this repository
+🌟 Star the repository
 🍴 Fork for practice
 💬 Share feedback
+
+Your support motivates me 🚀
 
 👤 Author
 
 Khushi Yadav
+
 📊 Data Analytics Enthusiast
 🚀 Power BI Developer
+💡 Passionate about Business Intelligence & Visualization
 
 📜 License
 
-This project is open-source and free to use for learning and portfolio purposes.
+This project is open-source and free for:
 
+✅ Learning
+✅ Practice
+✅ Portfolio Use
 
-If you want, I can also add:  
-✅ GitHub badges (Stars, Power BI, License)  
-✅ Animated emojis version  
-✅ Professional portfolio-style README  
-✅ Dark-theme optimized README  
-
-Just say **YES** 👍
+<div align="center">
+🚀 Thank You For Visiting This Repository!
+</div> ```
