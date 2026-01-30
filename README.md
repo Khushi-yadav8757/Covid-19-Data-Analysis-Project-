@@ -77,7 +77,7 @@ Follow these steps to run the dashboard locally:
 
 ```bash
 git clone https://github.com/Khushi-yadav8757/Covid-19-Data-Analysis-Project-.git
-
+```
 
 2️⃣ Open Power BI Desktop
 
